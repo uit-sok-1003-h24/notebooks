@@ -16,7 +16,7 @@ cd ..
 
 ## 2. Klone dette repositoriet: 
 ```
-git clone https://github.com/uit-sok-1003-h22/notebooks/
+git clone https://github.com/uit-sok-1003-h24/notebooks/
 ```    
  
 ## 3. Starte Jupyter i bestemt mappe ('D:/myfiles' i dette tilfellet): 
